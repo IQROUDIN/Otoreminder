@@ -1,0 +1,2 @@
+# Otoreminder
+otoreminder is an application used by motorcycle repair shops and customers, otoreminder uses 2 platforms, namely website and android, the website is used by workshop admins to record customer vehicle data, while the android application is used by customers to view the service history of their vehicles. in this application customers will get reminders and messages when approaching the service date of their vehicle.
